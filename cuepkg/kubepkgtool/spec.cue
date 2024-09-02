@@ -1,7 +1,7 @@
 package kubepkgtool
 
 import (
-	"github.com/octohelm/kubepkg/cuepkg/kubepkg"
+	kubepkg "github.com/octohelm/kubepkgspec/cuepkg/kubepkg"
 )
 
 #KubePkg: kubepkg.#KubePkg
